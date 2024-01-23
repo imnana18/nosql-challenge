@@ -1,4 +1,4 @@
-# NoSQL Challenge: Eat Safe, Love Database Analysis
+# Eat Safe, Love Database Analysis
 
 ## Overview
 
