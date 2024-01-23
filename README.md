@@ -57,7 +57,6 @@ How many establishments in each Local Authority area have a hygiene score of 0? 
 - Top 10:
 
 <div>
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
