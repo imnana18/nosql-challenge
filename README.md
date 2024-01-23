@@ -54,69 +54,69 @@ What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygi
 How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 - Refer to `pipeline_df` for complete establishment counts in each area.
 - There are 55 different Local Authority areas.
-- Top 10:
+- Top 10 results from pipeline:
 
-<div>
-<table border="1" class="dataframe">
-  <thead>
-    <tr style="text-align: right;">
-      <th></th>
-      <th>_id</th>
-      <th>count</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th>0</th>
-      <td>Thanet</td>
-      <td>1130</td>
-    </tr>
-    <tr>
-      <th>1</th>
-      <td>Greenwich</td>
-      <td>882</td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td>Maidstone</td>
-      <td>713</td>
-    </tr>
-    <tr>
-      <th>3</th>
-      <td>Newham</td>
-      <td>711</td>
-    </tr>
-    <tr>
-      <th>4</th>
-      <td>Swale</td>
-      <td>686</td>
-    </tr>
-    <tr>
-      <th>5</th>
-      <td>Chelmsford</td>
-      <td>680</td>
-    </tr>
-    <tr>
-      <th>6</th>
-      <td>Medway</td>
-      <td>672</td>
-    </tr>
-    <tr>
-      <th>7</th>
-      <td>Bexley</td>
-      <td>607</td>
-    </tr>
-    <tr>
-      <th>8</th>
-      <td>Southend-On-Sea</td>
-      <td>586</td>
-    </tr>
-    <tr>
-      <th>9</th>
-      <td>Tendring</td>
-      <td>542</td>
-    </tr>
-  </tbody>
-</table>
+<div style="text-align: center;">
+  <table border="1" class="dataframe">
+    <thead>
+      <tr style="text-align: right;">
+        <th></th>
+        <th>_id</th>
+        <th>count</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>0</th>
+        <td>Thanet</td>
+        <td>1130</td>
+      </tr>
+      <tr>
+        <th>1</th>
+        <td>Greenwich</td>
+        <td>882</td>
+      </tr>
+      <tr>
+        <th>2</th>
+        <td>Maidstone</td>
+        <td>713</td>
+      </tr>
+      <tr>
+        <th>3</th>
+        <td>Newham</td>
+        <td>711</td>
+      </tr>
+      <tr>
+        <th>4</th>
+        <td>Swale</td>
+        <td>686</td>
+      </tr>
+      <tr>
+        <th>5</th>
+        <td>Chelmsford</td>
+        <td>680</td>
+      </tr>
+      <tr>
+        <th>6</th>
+        <td>Medway</td>
+        <td>672</td>
+      </tr>
+      <tr>
+        <th>7</th>
+        <td>Bexley</td>
+        <td>607</td>
+      </tr>
+      <tr>
+        <th>8</th>
+        <td>Southend-On-Sea</td>
+        <td>586</td>
+      </tr>
+      <tr>
+        <th>9</th>
+        <td>Tendring</td>
+        <td>542</td>
+      </tr>
+    </tbody>
+  </table>
 </div>
-  
+
