@@ -54,7 +54,7 @@ What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygi
 How many establishments in each Local Authority area have a hygiene score of 0? Sort the results from highest to lowest, and print out the top ten local authority areas.
 - Refer to `pipeline_df` for complete establishment counts in each area.
 - There are 55 different Local Authority areas.
-- Top 10 results from pipeline:
+- Top 10 results printed from pipeline:
 
 <div style="text-align: center;">
   <table border="1" class="dataframe">
