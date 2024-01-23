@@ -55,19 +55,8 @@ How many establishments in each Local Authority area have a hygiene score of 0? 
 - Refer to `pipeline_df` for complete establishment counts in each area.
 - There are 55 different Local Authority areas.
 - Top 10:
+
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
 </style>
 <table border="1" class="dataframe">
   <thead>
